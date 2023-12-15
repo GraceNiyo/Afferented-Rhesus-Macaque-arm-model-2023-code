@@ -6,3 +6,6 @@ Use the autorun.sh file to run simulation. NOTE: You should change the path in c
 
 A link to all MATLAB Files and Data used to generate all plots in the paper will be added.
 
+TO cite our model use 
+[![DOI](https://zenodo.org/badge/731336333.svg)](https://zenodo.org/doi/10.5281/zenodo.10373301)
+
