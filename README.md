@@ -4,8 +4,6 @@ The provided codes include an MuJoCo xml file of the computational model of a Rh
 
 Use the autorun.sh file to run simulation. NOTE: You should change the path in controller codes to match where you saved the downloaded "Macaque_Arm_Codes_Data folder".  
 
-A link to all MATLAB Files and Data used to generate all plots in the paper will be added.
-
 To cite our model use 
 [![DOI](https://zenodo.org/badge/731336333.svg)](https://zenodo.org/doi/10.5281/zenodo.10373301)
 
