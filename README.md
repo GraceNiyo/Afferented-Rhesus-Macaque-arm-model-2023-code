@@ -4,6 +4,10 @@ Python-MuJoCo framework for simulating voluntary movement with spindle velocity 
 This project implements a closed-loop simulation of a macaque arm model using MuJoCo, where synthetic motor commands drive muscle activations and generate arm movement. The resulting kinematics are used to compute proprioceptive feedback (e.g., spindle activity) for closed-loop simulation. 
 
 This simulation was developed as part of a study published in Proceedings of the National Academy of Sciences (PNAS, 2024) and supports hypotheses about how spinal feedback circuits contribute to velocity-dependent stretch reflex modulation.
+## Demo Video
+[![Watch the demo](https://img.youtube.com/vi/Xicm-uTlJRU/0.jpg)](https://youtu.be/Xicm-uTlJRU)
+
+*Watch a simulation of the quadruped locomotion with muscle spindle feedback in action.*
 
 ## Publication
 These are supplementary codes for:
